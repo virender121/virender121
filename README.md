@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-virender121.vercel.app/](https://portfolio-virender121.vercel.app/)
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **React.js**, **Django**, **LLM's**, **Generative AI**
 
 - 📫 How to reach me **panku6688t@gmail.com**
 
