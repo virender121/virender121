@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virender121&label=Profile%20views&color=0e75b6&style=flat" alt="virender121" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React.js**
+- 🌱 I’m currently learning **JavaScript, React.js, Machine Learning, LLM's**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-virender121.vercel.app/](https://portfolio-virender121.vercel.app/)
 
