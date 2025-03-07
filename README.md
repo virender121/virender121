@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React.js, Machine Learning, LLM's**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-virender121.vercel.app/](https://portfolio-virender121.vercel.app/)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **React.js**, **Django**, **LLM's**, **Generative AI**
 
