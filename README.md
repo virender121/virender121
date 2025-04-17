@@ -1,7 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Virender</h1>
-<h3 align="center">A passionate Full Stack developer with Gen-AI skills from India</h3>
+<h3 align="center">Virender is a full-stack, polyglot developer with an acute interest in the offensive side of security. Whether building something new or finding the cracks to break in, there is always a solution to be found; even if it requires learning something entirely new. If you can improve/automate something, do it, and if you've put the effort in to do so, open-source it and share it with everyone else.
+
+When not hacking and coding, Virender can be found snowboarding the peaks of Himalayas, cruising on his longboard, floating around underwater, or just finding the most efficient path between A and B (even if that's over walls). Life is short. Do the things you love, embrace the unknown, live your dreams, and share your passion.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
