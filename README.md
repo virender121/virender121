@@ -3,13 +3,19 @@
 <h1 align="center">Hi 👋, I'm Pankaj</h1>
 <p align="start">Pankaj is a full-stack, python django developer with an acute interest in the offensive side of security. Whether building something new or finding the cracks to break in, there is always a solution to be found; even if it requires learning something entirely new. If you can improve/automate something, do it, and if you've put the effort in to do so, open-source it and share it with everyone else.</p>
 
-<p align="start" >When not hacking and coding, Virender can be found snowboarding the peaks of Himalayas, cruising on his longboard, floating around underwater, or just finding the most efficient path between A and B (even if that's over walls). Life is short. Do the things you love, embrace the unknown, live your dreams, and share your passion.</p>
+<p align="start" >When not hacking and coding, Pankaj can be found snowboarding the peaks of Himalayas, cruising on his longboard, floating around underwater, or just finding the most efficient path between A and B (even if that's over walls). Life is short. Do the things you love, embrace the unknown, live your dreams, and share your passion.</p>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virender121&label=Profile%20views&color=0e75b6&style=flat" alt="virender121" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React.js, Machine Learning, LLM's**
+### 🛠️ Currently Building
+
+🚀 I’m currently building something exciting —  
+**[Eazee](https://eazee-6wgk.vercel.app/)** — a modern, real-time platform built with **Next.js**, focusing on collaborative creativity and simplicity.
+
+💎 One of the projects I’m most proud of —  
+**[Taarini Weddings](https://taariniweddings.com/)** — a beautiful and elegant wedding planning platform built with **Django**, **React**, and **Tailwind CSS**, where performance meets design perfection.
 
 - 👨‍💻 All of my projects are available at 
 
