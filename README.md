@@ -17,7 +17,7 @@
 💎 One of the projects I’m most proud of —  
 **[Taarini Weddings](https://taariniweddings.com/)** — a beautiful and elegant wedding planning platform built with **Django**, **React**, and **Tailwind CSS**, where performance meets design perfection.
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at https://pankaj-thakur.vercel.app/
 
 - 💬 Ask me about **React.js**, **Django**, **LLM's**, **Generative AI**
 
