@@ -14,6 +14,15 @@
 🚀 I’m currently building something exciting —  
 **[Eazee](https://eazee-6wgk.vercel.app/)** — a modern, real-time platform built with **Next.js**, focusing on collaborative creativity and simplicity.
 
+🌐 BrunHaus Products-
+**[BrunHaus Marketplace](https://brunhaus.com)** — a modern local marketplace built to buy and sell products easily, with a focus on simplicity, trust, and community-driven listings.
+
+**[BrunHaus Dating](https://dating.brunhaus.com)** — a private, personality-first dating platform designed for meaningful connections beyond looks, emphasizing safety and authenticity.
+
+**[BrunHaus Tutor](https://tutor.brunhaus.com)** — a global tutoring platform connecting students with verified tutors for online and home learning, built for personalized education across borders.
+
+**[BrunHaus Tools](https://tools.brunhaus.com)** — a collection of fast, privacy-first business utilities including invoice generators, QR tools, calculators, and productivity resources.
+
 💎 One of the projects I’m most proud of —  
 **[Taarini Weddings](https://taariniweddings.com/)** — a beautiful and elegant wedding planning platform built with **Django**, **React**, and **Tailwind CSS**, where performance meets design perfection.
 
