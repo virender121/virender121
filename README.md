@@ -17,7 +17,7 @@
 🌐 BrunHaus Products-
 **[BrunHaus Marketplace](https://brunhaus.com)** — a modern local marketplace built to buy and sell products easily, with a focus on simplicity, trust, and community-driven listings.
 
-**[BrunHaus Dating](https://dating.brunhaus.com)** — a private, personality-first dating platform designed for meaningful connections beyond looks, emphasizing safety and authenticity.
+**[CleanupMyInfo](https://cleanupmyinfo.com/)** — a privacy-first data removal platform designed to eliminate public data exposure, protect personal safety, and restore control over your digital footprint.
 
 **[BrunHaus Tutor](https://tutor.brunhaus.com)** — a global tutoring platform connecting students with verified tutors for online and home learning, built for personalized education across borders.
 
